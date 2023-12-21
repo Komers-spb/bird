@@ -2,7 +2,7 @@
 		// Переменные 
 		let canvas = document.getElementById("canvas");
 		let ctx = canvas.getContext("2d");
-		canvas.width = window.innerWidth * 0.4;
+		canvas.width = window.innerWidth * 0.8;
 		canvas.height = window.innerHeight * 0.4;
 		let paused = false;
 		let score = 0;
